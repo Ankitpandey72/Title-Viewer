@@ -1,0 +1,41 @@
+
+body {
+  background-image: linear-gradient(to right, #000 0%, #e74c3c 51%, #000000 100%);
+  
+
+}
+
+.main-container{
+  width: 250px;
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+}
+
+.heading {
+  text-align: center;
+  color: #fa2c2c;
+  font-size: 28px;
+  text-shadow: 2px 2px 2px #220404;
+}
+
+#button {
+  background-image: linear-gradient(to right, #000 0%, #e74c3c 51%, #000000 100%);
+  margin: 10px;
+  width: 200px;
+  cursor: pointer;
+  padding: 10px 45px;
+  text-align: center;
+  color: rgb(244, 17, 17);
+  border-radius: 10px;
+  text-shadow: 2px 2px 2px #180101;
+  font-size: 15px;
+  
+}
+
+.title, .tab{
+  margin-left: 6px;
+  color: #f6eeee;
+  font-size: 15px;
+  
+}
+
